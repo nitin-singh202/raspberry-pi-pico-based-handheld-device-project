@@ -97,6 +97,7 @@ Adafruit_ILI9341 (if you use that for display control)
 
 ### **🔌 3. Hardware Setup**
 Component	Pin
+
 TFT CS	GP17
 TFT DC	GP15
 TFT RST	GP16
@@ -105,6 +106,7 @@ TFT MOSI	GP19
 TFT LED	3.3V
 Keypad / Joystick	GP2–GP9
 Power	3.3V / GND
+
 ### **⬆️ 4. Upload the Code**
 Open the main file containing setup() and loop()
 
