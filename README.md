@@ -37,29 +37,75 @@ Developed for the WAVES 2025 – Create in India Challenge, this project demonst
 
 This handheld device includes multiple standalone applications, each designed as a separate `.ino` file for modularity.
 
-### 🎮 Games
-- **SnakeGame**
-- **PingPong** 
-- **MazeNavigation**
-- **BlastTheBomb**
+# 🎮 Game Collection
 
-### 🧠 Brain & Logic
-- **MathGame**
-- **PatternRecognition**
-- **PuzzleSolving**
-- **OddOneOut**
+## 🎮 Games
 
-### 🧩 Memory & Sequence
-- **MemoryGame**
-- **NumberMemory**
-- **NumberSequencing**
+### SnakeGame
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_1/maxresdefault.jpg)](https://youtube.com/link-to-snake-game)
+**Description:** Classic snake game where you control a snake to eat food and grow longer.
 
-### 🧮 Utilities
-- **Calculator**
-- **SudokuGame**
-- **WordProblem**
-- **GeneralKnowledge**
+### PingPong
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_2/maxresdefault.jpg)](https://youtube.com/link-to-pingpong)
+**Description:** Two-player ping pong game with paddles and a ball.
 
+### MazeNavigation
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_3/maxresdefault.jpg)](https://youtube.com/shorts/U3ZgrMS9GaI?feature=share)
+**Description:** Navigate through complex mazes to reach the destination.
+
+### BlastTheBomb
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_4/maxresdefault.jpg)](https://studio.youtube.com/video/Q6VPFCoEAoA/edit))
+**Description:** Exciting bomb blasting game with timers and challenges.
+
+## 🧠 Brain & Logic
+
+### MathGame
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_5/maxresdefault.jpg)](https://youtube.com/shorts/Q6VPFCoEAoA)
+**Description:** Test your math skills with various arithmetic challenges.
+
+### PatternRecognition
+**Video Link:** [Watch on YouTube](https://youtube.com/shorts/Kp-aqM4MeuY?feature=share)
+**Description:** Identify patterns and sequences in this brain-teasing game.
+
+### PuzzleSolving
+**Video Link:** [Watch on YouTube](https://youtube.com/link-to-puzzle-game)
+**Description:** Solve various puzzles and brain teasers.
+
+### OddOneOut
+**Video Link:** [Watch on YouTube](https://youtube.com/shorts/_VZd1BeF_88?feature=share)
+**Description:** Find the item that doesn't belong in the group.
+
+## 🧩 Memory & Sequence
+
+### MemoryGame
+**Video Link:** [Watch on YouTube](https://youtube.com/link-to-memory-game)
+**Description:** Test your memory by matching pairs of cards.
+
+### NumberMemory
+**Video Link:** [Watch on YouTube](https://youtube.com/shorts/q4jkph3xYqg?feature=share)
+**Description:** Remember and recall sequences of numbers.
+
+### NumberSequencing
+**Video Link:** [Watch on YouTube](https://youtube.com/shorts/syd2BUAB_fk?feature=share)
+**Description:** Arrange numbers in the correct sequence.
+
+## 🧮 Utilities
+
+### Calculator
+**Video Link:** [Watch on YouTube](https://youtube.com/shorts/nc7ObsH7d0c)
+**Description:** A fully functional calculator application.
+
+### SudokuGame
+**Video Link:** [Watch on YouTube](https://youtube.com/link-to-sudoku)
+**Description:** Classic Sudoku puzzle game with multiple difficulty levels.
+
+### WordProblem
+**Video Link:** [Watch on YouTube](https://youtube.com/link-to-word-problem)
+**Description:** Solve word-based math and logic problems.
+
+### GeneralKnowledge
+**Video Link:** [Watch on YouTube](https://youtube.com/shorts/54KsS_FzODQ?feature=share)
+**Description:** Test your general knowledge with trivia questions.
 Each module runs independently and can be accessed from a Main Menu UI rendered on the TFT screen.
 
 ## 🖥️ Interface & Navigation
