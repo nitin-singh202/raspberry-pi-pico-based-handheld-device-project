@@ -82,7 +82,7 @@ Each module runs independently and can be accessed from a Main Menu UI rendered 
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 ```
-###⚙️ 2. Open in Arduino IDE
+⚙️ 2. Open in Arduino IDE
 Ensure all .ino files are in one folder
 
 Select Raspberry Pi Pico as the target board
@@ -95,7 +95,7 @@ Adafruit_GFX
 
 Adafruit_ILI9341 (if you use that for display control)
 
-###🔌 3. Hardware Setup
+🔌 3. Hardware Setup
 Component	Pin
 TFT CS	GP17
 TFT DC	GP15
@@ -105,14 +105,14 @@ TFT MOSI	GP19
 TFT LED	3.3V
 Keypad / Joystick	GP2–GP9
 Power	3.3V / GND
-###⬆️ 4. Upload the Code
+⬆️ 4. Upload the Code
 Open the main file containing setup() and loop()
 
 Click Upload in Arduino IDE
 
 The device will boot into the Main Menu, ready for use! ⚡
 
-##🎨 Future Enhancements
+🎨 Future Enhancements
 Animated transitions between games
 
 Audio feedback for inputs and gameplay
@@ -123,7 +123,7 @@ Save high scores to EEPROM
 
 Add multiplayer support using UART
 
-##🏅 Achievements
+🏅 Achievements
 🧠 Created 15+ original games and utilities for Pico
 
 🎨 Developed custom UI using Ucglib
@@ -132,15 +132,15 @@ Add multiplayer support using UART
 
 🏆 Recognized among Top 7 teams nationwide (WAVES 2025)
 
-##📄 License
+📄 License
 This project is released under the MIT License.
 You're free to modify, share, and improve it — just give credit to the original author.
 
-##👨‍💻 Author
+👨‍💻 Author
 Nitin
 🎓 Computer Science Engineering Student
 💡 Passionate about Embedded Systems, IoT, and Creative Hardware–Software Design
-
+      
 🌐 GitHub: github.com/nitin-singh202
 📧 Email: nitinkumarsingh296@gmail.com
 
