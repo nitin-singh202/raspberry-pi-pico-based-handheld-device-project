@@ -12,7 +12,7 @@
 
 ![Handheld Device Photo](images/device.jpg)
 
-## 🎯 Overview
+## 🎯 Overviews
 
 The Handheld Device Project is a multifunctional portable gaming and utility console built using the Raspberry Pi Pico microcontroller. It features a TFT display, keypad/joystick input, and a suite of custom-made mini-games and utilities — all designed to run smoothly on embedded hardware.
 
